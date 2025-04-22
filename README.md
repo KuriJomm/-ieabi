@@ -1,2 +1,2 @@
 # -ieabi
-Õieabi – taimede rõõm, abi ja jagatud tarkus"
+oieabi – taimede rõõm, abi ja jagatud tarkus"
